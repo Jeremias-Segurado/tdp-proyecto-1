@@ -1,5 +1,5 @@
 #Ignorar archivos de configuracion de Eclipse
-*.classpath
-*.proyect
+.classpath
+.proyect
 #Ignora toda la carpeta de Eclipse de compilaciones
 /bin/
